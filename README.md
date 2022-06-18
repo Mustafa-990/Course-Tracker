@@ -1,6 +1,6 @@
 # Course-Tracker
 This project helps determine a students  progress towards meeting graduation requirements at DePauw. I did this as a part of my Data Structures Class.
-For this Project data is stord in a linked list 
+For this Project data is stored in a linked list 
 For this program, the user should be presented with a menu of options. Each bullet point below should be an option on the list. 
 •	Insert a Course - the program should prompt the user to enter information about the course (department, number, and grade), then insert it into the linked list. It does not matter what order the courses appear in the list.
 •	Display Course List (All) – the program should display information about all the courses in the list, in the order in which they are in the list.
